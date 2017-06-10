@@ -45,5 +45,3 @@ public class Game extends Application {
 		});
 	}
 }
-
-//refactorizacia: AI: pes nahana ciernu ovcu
